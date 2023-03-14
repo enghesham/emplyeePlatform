@@ -24,3 +24,8 @@ MAIL_ENCRYPTION=tls
 
  user when register it must go to test mailtrap email to verfy email
  registerd user must inter code that send in his email  when he login (2fa) 
+ 
+ 
+ video link :
+ https://files.fm/u/sd2q4em86
+ 
