@@ -212,7 +212,7 @@
             <h6 class="small-title text-lg">About Us</h6>
             <div class="about-five-tab">
              
-                <div style="font-size: 15px;"><a href="https://github.com/enghesham/Employees-Platform" target="_blank" style="color:blue">Click here for gitHub</a>. To insatll project  & make it work go to the README.md file and follow the steps ...</div>
+                <div style="font-size: 15px;"><a href="https://github.com/enghesham/emplyeePlatform" target="_blank" style="color:blue">Click here for gitHub</a>. To insatll project  & make it work go to the README.md file and follow the steps ...</div>
                 <br><br>
             </div>
           </div>
