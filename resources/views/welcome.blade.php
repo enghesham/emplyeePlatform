@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <!--====== Title ======-->
-  <title>Platform | Bootstrap 5 Platform Template</title>
+  <title>Employment |  Platform </title>
 
   <!--====== Favicon Icon ======-->
   <link rel="shortcut icon" href="../assets/images/favicon.svg" type="image/svg" />
