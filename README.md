@@ -1,7 +1,7 @@
 # emplyeePlatform
 
 To run the platform go to steps:
-1- git clone  https://github.com/enghesham/Employees-Management.git
+1- git clone  https://github.com/enghesham/emplyeePlatform.git
 2- composer update
 3- copy .env.example and paste it in the file root and rename it .env
 4- php artisan key:generate
